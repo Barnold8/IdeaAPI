@@ -1,0 +1,23 @@
+Binary calculator
+Pacman clone
+Flappy bird clone
+Website that shows the local weather
+Chess game
+Multiplayer board game (online or local)
+Write sorting algorithms
+Drawing pad app
+Currency converter
+Chat room
+API (your own)
+Transpiling of one language to another (e.g C++ -> C)
+Utility program (i.e file finder, directory cleanup)
+Low level game (SDL game in C/C++, P5JS game)
+Mouse controller via a gamepad (xbox controller, nintendo switch controller)
+An email reader (GUI application)
+Make a game based on a show you have watched (Range from console application to GUI)
+Web scraper
+Story maker (makes a random story on the spot)
+Fizzbuzz game
+Hangman game
+Tetris game
+Encryption of files (the level of encryption is up to you)
